@@ -66,13 +66,14 @@ Acceptance Testing: Testing against user requirements. Ensures the system meets 
 
 
 #Part 2: Introduction to AI and Prompt Engineering
-Prompt engineering: involves crafting specific input queries to guide AI models in generating accurate and relevant outputs. It’s essential for improving AI's response quality and ensuring it meets user expectations.
-Vague Prompt: "Tell me about software development."
-Improved Prompt: "Explain the phases of the Software Development Life Cycle (SDLC) in software development."
-Explanation: The improved prompt is clearer and more specific, leading to a focused and relevant response, which makes it more effective in guiding the AI.
+
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering: involves crafting specific input queries to guide AI models in generating accurate and relevant outputs. It’s essential for improving AI's response quality and ensuring it meets user expectations.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt: "Tell me about software development."
+Improved Prompt: "Explain the phases of the Software Development Life Cycle (SDLC) in software development."
+Explanation: The improved prompt is clearer and more specific, leading to a focused and relevant response, which makes it more effective in guiding the AI.
